@@ -8,6 +8,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Sushajkhan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sushajkhan/)
 [![Gmail Badge](https://img.shields.io/badge/-sushajkhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sushajkhan@gmail.com)](mailto:sushajkhan@gmail.com)
 
+---
 
 💻 **Languages and Tools:** 🛠️<br>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -25,5 +26,5 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="jwt" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" />
----
+<br />
 
