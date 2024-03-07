@@ -1,5 +1,5 @@
 # <h2 align='center'><samp><strong>Hi there 👋, I am Sushajkhan</strong></samp></h2>
-**`Fullstack Javascript Developer`**
+**`Fullstack Web Developer`**
 
 <p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
@@ -27,5 +27,6 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="left" alt="jwt" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" />
 <img align="left" alt="ts" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" />
+<img align="left" alt="webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <br />
 
