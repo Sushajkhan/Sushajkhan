@@ -34,7 +34,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
-<a href="https://github.com/Sushajkhan/Sushajkhan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sushajkhan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Sushajkhan's GitHub Stats" />
-</a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sushajkhan&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushajkhan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
