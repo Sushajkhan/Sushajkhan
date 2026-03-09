@@ -1,9 +1,12 @@
 # <h2 align='center'><samp><strong>Hi there 👋, I am Sushajkhan</strong></samp></h2>
-**`Fullstack Web Developer`**
+**`Full-Stack Developer`**
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='left'>I'm a full-stack developer who enjoys building web applications and learning how different parts of a system work together. I like working across both the frontend and backend, and I spend a lot of time exploring how to write clean and maintainable code.
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+Most of the projects here are things I built while learning, experimenting with ideas, or improving my development skills. I'm always trying to understand systems better and gradually improve the way I approach building software.
+
+Outside of programming, I enjoy following technology and occasionally playing games.</p>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Sushajkhan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sushajkhan/)
 [![Gmail Badge](https://img.shields.io/badge/-sushajkhan-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sushajkhan@gmail.com)](mailto:sushajkhan@gmail.com)
