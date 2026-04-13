@@ -1,11 +1,11 @@
 # <h2 align='center'><samp><strong>Hi there 👋, I am Sushajkhan</strong></samp></h2>
 **`Full-Stack Developer`**
 
-<p align='left'>I'm a full-stack developer who enjoys building web applications and learning how different parts of a system work together. I like working across both the frontend and backend, and I spend a lot of time exploring how to write clean and maintainable code.
+Full-stack developer focused on building scalable, maintainable applications and understanding systems end-to-end. I enjoy working across the stack, improving system design, and writing clean, efficient code.
 
-Most of the projects here are things I built while learning, experimenting with ideas, or improving my development skills. I'm always trying to understand systems better and gradually improve the way I approach building software.
+My projects reflect experimentation, continuous improvement, and a strong interest in how software components interact in real-world systems.
 
-Outside of programming, I enjoy following technology and occasionally playing games.</p>
+Outside of tech, I enjoy conversations around football, science, politics, books, space, philosophy, startups, and global trends.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Sushajkhan-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/sushajkhan/)
@@ -46,6 +46,9 @@ Outside of programming, I enjoy following technology and occasionally playing ga
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="webpack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-plain.svg" />
 <br />
+
+
+
 
 
 
